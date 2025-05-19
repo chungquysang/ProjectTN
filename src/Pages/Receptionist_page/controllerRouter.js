@@ -1,0 +1,6 @@
+export { default as Dashboard } from "./Dashboard"
+export { default as MedicalRegistration } from "./MedicalRegistration"
+export { default as PatientReception } from "./PatientReception"
+export { default as Appointments } from "./Appointments"
+export { default as ProfilePatient } from "./Profilepatient"
+export { default as Paymanent } from "./Paymanent"

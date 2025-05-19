@@ -1,0 +1,24 @@
+Thành phần thể hiện thư mục file tự hiểu 
+
+trong Components (có từ cái forder riêng biệt của các actor ) => + Doctor => + Tabs ( chứa các layout về việc khám bệnh )
+
+AppointmentsTab.js	        Quản lý các lịch hẹn khám của bệnh nhân.
+DiagnosisTab.js	            Thông tin chẩn đoán bệnh của bệnh nhân.
+HealthInsuranceInfo.js	    Thông tin bảo hiểm y tế (Mã BHYT, nơi đăng ký KCB...).
+ListTabs.js	                là file chứa danh sách các tab hoặc điều phối hiển thị tab.
+MedicalHistoryTab.js	    Tiền sử bệnh án (dị ứng, bệnh nền, tiểu sử gia đình...).
+PatientInfoTab.js	        Thông tin cá nhân bệnh nhân (họ tên, ngày sinh, giới tính...).
+PrescriptionsTab.js	        Đơn thuốc đã kê cho bệnh nhân.
+TestResultsTab.js	        Kết quả xét nghiệm (máu, nước tiểu, hình ảnh...).
+TreatmentForm.js	        Phiếu điều trị hoặc ghi chú điều trị của bác sĩ.
+Vital-signs.js	            Dấu hiệu sinh tồn (nhiệt độ, huyết áp, mạch, nhịp thở...).
+
+
+ngoài ra có PatientSiderbar (hiển thị danh sách bệnh nhân)
+
+
+hưỡng dẫn sử dụng 
+
+Đăng nhập để nhận dạng role TK Mk nằm ở trong file SignupPage.js ở Folder (Page)
+
+

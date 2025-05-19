@@ -1,0 +1,9 @@
+export { default as DashboardAdmin } from "./DashBoardAD";
+export { default as Account } from "./Account";
+export { default as MedicineManagement } from "./Medicine";
+export { default as ServiceAdmin } from "./Service";
+export { default as MedicalTestAdmin } from "./MedicalTest";
+export { default as StaffAdmin } from "./Staff";
+export { default as DoctorAdmin } from "./DoctorAD";
+export { default as RoleAdmin } from "./RoleAD";
+export { default as ProfileAD } from "./ProfileAD";
